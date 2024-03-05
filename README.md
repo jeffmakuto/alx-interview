@@ -1,12 +1,12 @@
 # 0x00. Pascal's Triangle
 
 ## Resources
-* What is Pascal’s triangle
-* Pascal’s Triangle - Numberphile
-* What are Python Algorithms
+* [What is Pascal’s triangle](https://www.cuemath.com/algebra/pascals-triangle/)
+* [Pascal’s Triangle - Numberphile](https://youtu.be/0iMtlus-afo?si=UXoItQmyXILnfBxI)
+* [What are Python Algorithms](https://builtin.com/data-science/python-algorithms)
 
 ## Additional Resources
-* Mock Technical Interview
+* [Mock Technical Interview](https://youtu.be/1qw5ITr3k9E?si=9I2viEHnGVRCQyZm)
 
 ## Must Know
 To successfully complete this project, you should revise the following Python concepts:
