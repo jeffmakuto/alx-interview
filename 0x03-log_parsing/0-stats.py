@@ -2,6 +2,7 @@
 import sys
 from collections import defaultdict
 
+
 def parse_log():
     """
     Reads stdin line by line, computes metrics, and prints statistics after every 10 lines
